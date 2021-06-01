@@ -14,4 +14,6 @@ I am a solutions-oriented data analyst passionate about solving problems and pro
 ![Kristin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kflores56&show_icons=true&theme=vue-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kflores56&layout=compact)](https://github.com/kflores56/github-readme-stats)
 
-![GitHub followers](https://img.shields.io/github/followers/kflores56?label=Follow)
+![](https://komarev.com/ghpvc/?username=kflores56&color=blue)
+[![GitHub followers](https://img.shields.io/github/followers/kflores56.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/kflores56?tab=followers)
+
