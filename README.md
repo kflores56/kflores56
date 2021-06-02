@@ -7,7 +7,7 @@ I am a solutions-oriented data analyst passionate about solving problems and pro
 - 🌱 I’m currently learning Big Data. 
 - 👯 I’m looking to collaborate on innovative ways to collect & analyze real time data. 
 - 🤔 I’m looking for help with new data blogs & podcast recommendations. 
-- 📫 How to reach me: <kristin.flores56@mgmail.com>
+- 📫 How to reach me: <kristin.flores56@gmail.com>
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I'm an urban planner and love all things cities!
 
